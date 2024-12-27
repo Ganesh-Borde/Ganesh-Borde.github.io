@@ -23,4 +23,4 @@ My coursework included Compressible Flow, Viscous Flow, CFD, Dynamics of Turbule
 
 I completed my Bachelor of Technology (B.Tech) in Aeronautical Engineering from [Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology](https://www.veltech.edu.in/) in June 2022. For my final-year project, I worked on designing a scramjet inlet for shock-lip under the supervision of [Dr. Naren Shankar](https://scholar.google.com/citations?user=BFDpCJ4AAAAJ&hl=en), and I presented the work at [ICES 2022](https://ices.space/). In addition to my final project, I also worked on the design and analysis of a small-scale axial flow pump impeller. Most of my coursework focused on topics related to Aerothermodynamics, including courses in Aerodynamics, Fluid Mechanics, Intro to CFD, Python Programming, Thermodynamics, FEA, and Propulsion.
 
-More about my [projects](#) and [research](#) is available on this website.
+More about my [projects](https://ganesh-borde.github.io/projects) and [research](https://ganesh-borde.github.io/research) is available on this website.
