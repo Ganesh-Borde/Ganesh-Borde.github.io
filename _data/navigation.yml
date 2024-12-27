@@ -11,12 +11,9 @@ docs:
   url: /project/
   children:
     - title: Lid Driven Cavity
-    url: /lid_driven_cavity/
+    url: lid_driven_cavity.html
     - title: Scramjet Inlet
-    url: /scramjet_inlet/
-
-
-
+    url: scramjet_inlet.html
   
 - title: Conferences
   url: conference.html
