@@ -10,7 +10,7 @@ layout: default
   <div id="right" style="float: right; width: 65%; vertical-align: middle;">
     <p><b>Ganesh Borde, MS</b></p>
     <p><a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
-    <p><a href="files/GaneshBorde_cv.pdf">Curriculum Vitae</a></p>
+    <p><a href="files/GaneshBorde_CV.pdf">Curriculum Vitae</a></p>
   </div>
 </div>
 <div id="clearer" style="clear: both"></div>
