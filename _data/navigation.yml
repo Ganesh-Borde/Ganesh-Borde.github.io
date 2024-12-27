@@ -1,0 +1,34 @@
+docs_list_title: Menu 
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Research
+  url: research.html
+
+- title: Project
+  url: /project/
+  children:
+    - title: Lid Driven Cavity
+    url: /lid_driven_cavity/
+    - title: Scramjet Inlet
+    url: /scramjet_inlet/
+
+
+
+  
+- title: Conferences
+  url: conference.html
+
+- title: Skills
+  url: skills.html
+    
+- title: Teaching  
+  url: teaching.html
+  
+
+
+
+- title: Contact
+  url: contact.html
