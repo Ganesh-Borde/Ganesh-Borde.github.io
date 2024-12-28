@@ -2,23 +2,11 @@
 title: Research 
 layout: default
 ---
+**Measurement of Markstein Numbers and Laminar Flame Speeds in Computationally Simulated Premixed Cylindrically Expanding Laminar Flames**
 
-## Research highlights
+As global energy demands rise and concerns over fossil fuel emissions intensify, there is an urgent need to develop sustainable alternatives. Extensive research is being conducted to optimize hydrogen combustion. Key flame properties, such as laminar flame speed and Markstein number, play crucial roles in characterizing combustion of hydrogen-containing fuels. These parameters influence flame stability, speed, and response to perturbations. While these properties can be determined experimentally, such measurements are often costly and subject to uncertainties. Numerical simulations, therefore, provide a valuable approach to studying these properties more efficiently.
 
-I define myself as a mathematical engineer and computational scientist. My work focuses on advancing our understanding of physical and biological phenomena, improving the design of engineering systems, and supporting informed decision-making under uncertainty by use of mathematical/statistical modeling and high-performance computing. An important component of my work is the systematic integration of mathematical models and data (e.g., experimental measures and images) using the Bayesian framework. Throughout my career, I have led the development of novel formulations and algorithms for the solution of both forward and inverse problems. I have achieved this by establishing a close working collaboration with some of the leading research experts in the fields of medical imaging, geophysics, engineering, computational sciences, and applied mathematics.
+In this work, a computational framework is developed to model cylindrically expanding laminar flames at constant pressure. This approach avoids common instabilities encountered when simulations are initialized from a unburnt conditions and a  numerical "spark" ignites the reactants. Such numerical instabilities  are most common when the governing equations solved are the low Mach number  restriction of the Navier-Stokes equations. After validating the modeling  approach against data available in the literature,  the framework is applied to unity Lewis number mixtures of hydrogen and oxygen diluted  with helium. These mixtures are studied at varying dilution levels, equivalence ratios, and pressures to understand their behavior in conditions relevant to experiments performed in the Von Kármán Combustion Chamber (VKCC), where the focus is on understanding the dynamics of turbulent flame fronts. The Markstein number is a critical parameter in the response of a reactive front to stretch according to well established linear theory. For all selected mixtures, the study found positive Markstein numbers, indicating stable behavior. Notably, as the equivalence ratio increases from 0.65 to 0.95, as the laminar flame speed and Markstein number  increases.
 
-During my doctoral program and postdoctoral training, I made several important contributions to the field of computational science and engineering, and more specifically with regards to the use of large-scale numerical simulation as a tool to inform decision making under uncertainty. These included the use of patient-specific computational hemodynamics simulations to quantify wall shear stress and predict the risk of rupture of an aneurysm; the optimal control of the inlet condition of a turbulent jet to ensure proper mixing; and the use of information theoretic approaches (expected information gain) to optimally designing sensing systems.
-
-As a Research Scientist at the Oden Institute, I am working on several projects aiming at advancing quantitative and functional image reconstruction algorithms with the ultimate goal of advancing the state-of-care for cancer diagnosis and treatment. In particular, my focus is on emerging acoustic and optical imaging modalities, such as photoacoustic computed tomography (PACT) and ultrasound computed tomography (USCT).
-
-Find me on: [Google Scholar](https://scholar.google.com/citations?user=lELCubQAAAAJ&hl=en).
-
-| ![Quantitative Photoacoustic Tomography](images/research/qpact.png)| ![Computational Hemodynamics](images/research/hemodynamics.png) |
-| :---: | :---: |
-| **Reconstruction algorithms for emerging medical imaging technologies (quantitative photoacoustic computed tomography)** | **Computational hemodynamics** |
-| ![Bayesian Inverse Problems](images/research/inverseproblems.png) | ![Optimal design of experiments](images/research/oed.png) |
-| **The process of extracting knowledge from data by solving inverse problems** | **Bayesian optimal design of experiments with sparsifying penalty** |
-| ![Random field](images/research/random_field.png) | ![Optimization under uncertainty](images/research/ouu.png) |
-| **Scalable sampling algorithms for Gaussian random fields** | **Optimization under uncertainty: application to turbulent jet** |
-| ![Two-phases flow](images/research/two_phases.png) | ![AMGe](images/research/amge.png) | 
-| **Two-phases porous media flow** | **Hierarchy of agglomerated meshes for element-based AMG** | 
+You can view the research in detail:
+[View Report](files/thesis.pdf)
