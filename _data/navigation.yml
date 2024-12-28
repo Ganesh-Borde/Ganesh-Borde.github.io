@@ -8,7 +8,7 @@ docs:
     url: research.html
 
   - title: Projects
-    url: /projects/
+    url: project.html
     children:
       - title: Lid Driven Cavity
         url: lid_driven_cavity.html
