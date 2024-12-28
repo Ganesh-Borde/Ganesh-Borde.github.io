@@ -5,5 +5,5 @@ layout: default
 
 # Projects
 
-- [Lid Driven Cavity](lid_driven_cavity.html)
-- [Scramjet Inlet](scramjet_inlet.html)
+- [Lid Driven Cavity](/project/lid_driven_cavity.html)
+- [Scramjet Inlet](/project/scramjet_inlet.html)
