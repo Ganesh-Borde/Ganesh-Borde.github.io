@@ -8,5 +8,5 @@ In the new era of technology, the Scramjet engine has a big future in both Super
 Keywords- Shock on lip, Ignition Temperature, Drag, Spillage of flow, Cowl tip, shock train.
 
 You can view the project in detail:
-[View Report](files/scramjet_inlet.pdf)
+[View Report](../files/scramjet_inlet.pdf)
 
