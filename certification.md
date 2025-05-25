@@ -2,6 +2,7 @@
 title: Certifications
 layout: default
 ---
+- [Gamma Technology University](https://university.gtisoft.com/learn) **Introduction to GT-SUITE** [View Certificate](files/GT_Suite_Customer_Traning_Certificate.pdf)
 - [Schneider Electric University](https://university.se.com/) **Optimizing Cooling Layouts for the Data Center**
 [View Certificate](files/Optm_Cooling_Layouts_DC.pdf)
 
@@ -16,6 +17,7 @@ layout: default
 [View Certificate](files/ASME_Certificate.pdf)
 - Engineering Teaching Assistant by **[Cockrell School of Engineering, UT Austin](https://cockrell.utexas.edu/)** 
 [View Certificate](files/TA-Certification.pdf)
+
 
 
 
